@@ -1,6 +1,6 @@
 # Node_js_standard
-node_js standard setting
-------------
+This is node_js standard setting repository
+---
 ## Settings
 Formatting: Prettier  
 Linting: ESLint  
